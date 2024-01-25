@@ -1,0 +1,135 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-image: url("https://as1.ftcdn.net/v2/jpg/03/28/61/30/1000_F_328613003_lfjwAEmb1qkVWnOzQZv7Mbp1yjNyYraA.jpg");
+
+    height: 100vh;
+    background-size: 100% 100%;
+}
+
+.tourism-card {
+    text-align: center;
+    background-color: white;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    padding: 5px;
+}
+
+.button {
+    height: 36px;
+    width: 138px;
+    background-color: #25b1cc;
+    color: white;
+    border-radius: 20px;
+    border-width: 0px;
+    font-family: "Roboto";
+}
+
+.main-heading {
+    font-family: "Roboto";
+    font-weight: 400;
+
+}
+
+.paragraph {
+    font-family: "Bree Serif";
+
+}
+
+.favourite-places-bg-container {
+    background-image: url("https://as1.ftcdn.net/v2/jpg/06/20/41/44/1000_F_620414470_ovkp7Nt85GldvGHrFdJ66FljKh3CzCGN.jpg");
+    background-size: cover;
+    padding: 24px;
+}
+
+.favourite-places-heading {
+    color: #00DDFF;
+    font-size: 28px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.favourite-place-card-container {
+    background-color: white;
+    border-radius: 8px;
+    padding: 16px;
+    margin-bottom: 15px;
+}
+
+.favourite-place-card-heading {
+    color: #494D5F;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 23px;
+}
+
+.favourite-place-card-description {
+    font-family: "Roboto";
+    font-size: 13px;
+    color: black;
+}
+
+.favourite-place-card-image {
+    width: 80px;
+    height: 100px;
+}
+
+.favourite-place-card-text-container {
+    margin: 15px;
+}
+
+.detailed-view-bg-container {
+    background-image: url("https://www.fabhotels.com/blog/wp-content/uploads/2019/03/Places-to-visit-in-Vijayawada600x400-1200x800.jpg");
+
+    background-size: 100% 100%;
+}
+
+.prakasam-view-bg-container {
+    background-image: url("https://as1.ftcdn.net/v2/jpg/01/83/27/82/1000_F_183278238_PzI25oZzhS1tv6EDmpzNHrkRw4CVmSv2.jpg");
+
+    background-size: 100% 100%;
+}
+
+.bhavani-view-bg-container {
+    background-image: url("https://yometro.com/images/places/bhavani-island.jpg");
+
+    background-size: 100% 100%;
+}
+
+.mmm-view-bg-container {
+    background-image: url("https://yometro.com/images/places/victoria-jubliee-museum.jpg");
+
+    background-size: 100% 100%;
+}
+
+.detailed-view-heading {
+    color: white;
+    font-size: 28px;
+    font-family: "Roboto";
+    font-weight: bold;
+    padding: 24px;
+}
+
+.detailed-view-card-container {
+    background-color: white;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    margin: 24px;
+}
+
+.detailed-view-card-heading {
+    color: #0f0e46;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 23px;
+}
+
+.detailed-view-card-description {
+    font-family: "Roboto";
+    font-size: 13px;
+    color: #6c6b70;
+}
+
+.detailed-view-card-text-container {
+    padding: 16px;
+}
